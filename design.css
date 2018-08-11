@@ -1,0 +1,35 @@
+.DivInicio{   
+    background-color: rgba(60, 179, 114, 0.712);
+}
+
+.phone{
+    font-size: 30px; text-align: left; 
+    margin-left: 1%; color: white;
+}
+.h2 {
+    margin:10px;        font-size: 25px;
+    color: white;     text-align: center;
+    position: relative; top: -90px;
+    margin: auto;
+    
+}
+.imgbox {
+    display: grid;
+    height: 50%;
+    background-color: rgb(98, 187, 156);;
+    
+   }
+.center-fit {
+    max-width: 100%;
+    max-height: 50vh;
+    margin: auto;   
+}
+
+.Prase1
+{
+    text-align: center;    font-size: 25px;
+    color: white;
+    top: 100px;
+}
+
+
